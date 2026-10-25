@@ -17,8 +17,6 @@
 
 [![Download for Windows](https://img.shields.io/badge/Download-Chaos%20Mod%20%C3%97%20Kick-53fc18?style=for-the-badge&labelColor=161a18)](https://github.com/TwinderR/chaos-on-kick/releases/latest)
 
-<sub>Made by a streamer, for streamers. By <a href="https://kick.com/twinder">TwindeR</a>.</sub>
-
 </div>
 
 <br>

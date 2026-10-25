@@ -13,10 +13,6 @@
 [![Downloads](https://img.shields.io/github/downloads/TwinderR/chaos-on-kick/total?style=for-the-badge&label=downloads&color=7c3aed&labelColor=161a18)](https://github.com/TwinderR/chaos-on-kick/releases)
 [![Automatic updates](https://img.shields.io/badge/updates-automatic-0e8f9c?style=for-the-badge&labelColor=161a18)](#updates)
 
-<br>
-
-[![Download for Windows](https://img.shields.io/badge/Download-Chaos%20Mod%20%C3%97%20Kick-53fc18?style=for-the-badge&labelColor=161a18)](https://github.com/TwinderR/chaos-on-kick/releases/latest)
-
 </div>
 
 <br>

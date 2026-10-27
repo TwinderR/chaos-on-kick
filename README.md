@@ -1,6 +1,9 @@
 <div align="center">
 
-<img alt="Chaos Mod × Kick" src="assets/logo.png" height="150">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+  <img alt="CHAOS × KICK" src="assets/logo-light.png" width="520">
+</picture>
 
 # Chaos Mod × Kick
 

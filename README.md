@@ -29,8 +29,7 @@
 - **Meta effects** every few minutes: double or half effect duration, faster or slower polls, Combo Time, Minority Voting, No Chaos, Re-Invoke and more – all applied to what chat votes in.
 - **Effects & chances.** All 358 effects sorted into categories – turn any off or make it rare / often / very often.
 - **Timing your way.** Effect duration as a from–to range, poll length, delay between effects, how many effects can run at once.
-- **OBS overlay** with the live poll, countdown, running effects and reward redemptions – plus a live preview inside the app.
-- **Liquid glass overlay style** that really bends and blurs the game behind the poll – see [Liquid glass overlay](#liquid-glass-overlay).
+- **OBS overlay** with the live poll, countdown and reward redemptions – plus a live preview inside the app.
 - **Dark / light theme, English / Czech**, and automatic updates.
 
 ## Requirements
@@ -54,19 +53,6 @@
 **OBS:** add a *Browser* source with the address shown in the *OBS overlay* card (480 × 420, `?scale=1.3` to resize).
 
 **Channel points:** create a reward on Kick with *Requires user input* turned on, use the same name in **Settings → Channel points reward** and switch it on.
-
-## Liquid glass overlay
-
-Besides the classic look, the overlay can be real glass: the card and every bubble bend and blur the game behind them, like Apple's liquid glass. Click **Edit** next to the overlay address on the Dashboard and pick **Liquid glass**.
-
-- Set the glass from clear to frosted, glass color and strength, light or dark text, edge and bubble bending, edge width and size – the preview updates live.
-- Drag the card anywhere in the preview (or in OBS: right-click the source → *Interact*). The position is saved automatically.
-- It needs the free **[Shader Filter](https://github.com/exeldro/obs-shaderfilter/releases)** plugin for OBS. In the *Edit* window the app can:
-  1. download and install the plugin (then restart OBS),
-  2. connect to OBS – turn on *Tools → WebSocket Server Settings → Enable WebSocket server* and paste its password,
-  3. set up OBS with one click: the overlay source gets the full canvas width and 2× its height at position 0, 0, plus the glass filter with your game capture.
-
-A browser page can't see the game, so the glass is drawn by the plugin inside OBS; the bottom half of the overlay page (off screen) tells it where the glass is. Setting it up by hand is described in the same window.
 
 ## Updates
 
